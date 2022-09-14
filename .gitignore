@@ -2,3 +2,5 @@
 **/obj/
 **/bin/
 **/Properties/
+**/packages/
+packages.config
