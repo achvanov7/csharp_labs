@@ -8,7 +8,7 @@
             {
                 return 0;
             }
-            var dp = new int[7, 37];
+            var dp = new int[n + 1, 6 * n + 1];
             dp[0, 0] = 1;
             for (var i = 0; i < n; ++i)
             {
