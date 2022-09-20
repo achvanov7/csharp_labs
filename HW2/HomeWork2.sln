@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollSolveTool", "DiceRo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainWaterSolveTool", "RainWaterSolveTool\RainWaterSolveTool.csproj", "{313E17AB-067F-40D7-95A6-6F6A0C343E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutablePair", "ImmutablePair\ImmutablePair.csproj", "{6E4F0DB5-EDF5-4478-AEF9-CC6EE2185377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{313E17AB-067F-40D7-95A6-6F6A0C343E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{313E17AB-067F-40D7-95A6-6F6A0C343E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{313E17AB-067F-40D7-95A6-6F6A0C343E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4F0DB5-EDF5-4478-AEF9-CC6EE2185377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4F0DB5-EDF5-4478-AEF9-CC6EE2185377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4F0DB5-EDF5-4478-AEF9-CC6EE2185377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4F0DB5-EDF5-4478-AEF9-CC6EE2185377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
