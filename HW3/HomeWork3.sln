@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionSimplifier", "FractionSimplifier\FractionSimplifier.csproj", "{28A47E81-3329-4E67-8501-CC4AAFF1DB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{78EA560F-4D22-4066-ADF4-A6729641DA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTask", "LinkedListTask\LinkedListTask.csproj", "{071ED719-E500-4E5D-AEDA-F54684E0074B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A47E81-3329-4E67-8501-CC4AAFF1DB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A47E81-3329-4E67-8501-CC4AAFF1DB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A47E81-3329-4E67-8501-CC4AAFF1DB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A47E81-3329-4E67-8501-CC4AAFF1DB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EA560F-4D22-4066-ADF4-A6729641DA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EA560F-4D22-4066-ADF4-A6729641DA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EA560F-4D22-4066-ADF4-A6729641DA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EA560F-4D22-4066-ADF4-A6729641DA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071ED719-E500-4E5D-AEDA-F54684E0074B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071ED719-E500-4E5D-AEDA-F54684E0074B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071ED719-E500-4E5D-AEDA-F54684E0074B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071ED719-E500-4E5D-AEDA-F54684E0074B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
