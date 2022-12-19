@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBees", "BearAndBees\BearAndBees.csproj", "{6CAEEFD0-D971-42CD-B6C0-D6C7F656C88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamsAndWolf", "RamsAndWolf\RamsAndWolf.csproj", "{D41F3A7F-08A2-4F12-956E-994BF653FBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAEEFD0-D971-42CD-B6C0-D6C7F656C88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAEEFD0-D971-42CD-B6C0-D6C7F656C88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAEEFD0-D971-42CD-B6C0-D6C7F656C88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAEEFD0-D971-42CD-B6C0-D6C7F656C88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
