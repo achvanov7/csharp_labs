@@ -1,10 +1,10 @@
 ﻿using System.Collections.Concurrent;
 
 void SortRange(ref int[] array, int index, int len)
-{
+{   
+    Thread.Sleep(new Random().Next(250, 750));
     Array.Sort(array, index, len);
     Console.WriteLine($"Sorted [{index}; {index + len - 1}]");
-    Thread.Sleep(new Random().Next(250, 750));
 }
 
 List<int> Merge(List<int> left, List<int> right)
