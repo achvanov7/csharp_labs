@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBees", "BearAndBees\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamsAndWolf", "RamsAndWolf\RamsAndWolf.csproj", "{D41F3A7F-08A2-4F12-956E-994BF653FBF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadMergeSort", "MultithreadMergeSort\MultithreadMergeSort.csproj", "{1246A22C-74EE-47EF-B41B-1E77D1A293BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D41F3A7F-08A2-4F12-956E-994BF653FBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1246A22C-74EE-47EF-B41B-1E77D1A293BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1246A22C-74EE-47EF-B41B-1E77D1A293BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1246A22C-74EE-47EF-B41B-1E77D1A293BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1246A22C-74EE-47EF-B41B-1E77D1A293BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
