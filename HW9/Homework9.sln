@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSerialization", "TreeSerialization\TreeSerialization.csproj", "{0394F0BC-D51D-49FC-85EA-9203189481A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumber", "RationalNumber\RationalNumber.csproj", "{B2BA9A34-40F5-4C28-A287-EC4DE3A7AB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroup", "StudentGroup\StudentGroup.csproj", "{E2BF9CC8-6896-4C5D-9731-BA8B7AFC8CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearch", "FileSearch\FileSearch.csproj", "{0F45C357-28FC-4B45-AAE5-FE86E58AAEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0394F0BC-D51D-49FC-85EA-9203189481A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0394F0BC-D51D-49FC-85EA-9203189481A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0394F0BC-D51D-49FC-85EA-9203189481A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0394F0BC-D51D-49FC-85EA-9203189481A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BA9A34-40F5-4C28-A287-EC4DE3A7AB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BA9A34-40F5-4C28-A287-EC4DE3A7AB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BA9A34-40F5-4C28-A287-EC4DE3A7AB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BA9A34-40F5-4C28-A287-EC4DE3A7AB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BF9CC8-6896-4C5D-9731-BA8B7AFC8CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BF9CC8-6896-4C5D-9731-BA8B7AFC8CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BF9CC8-6896-4C5D-9731-BA8B7AFC8CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BF9CC8-6896-4C5D-9731-BA8B7AFC8CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F45C357-28FC-4B45-AAE5-FE86E58AAEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F45C357-28FC-4B45-AAE5-FE86E58AAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F45C357-28FC-4B45-AAE5-FE86E58AAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F45C357-28FC-4B45-AAE5-FE86E58AAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
