@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Envelopes", "Envelopes\Envelopes.csproj", "{D472A002-F987-4376-91D0-C478CF27F193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackBoxTask", "BlackBoxTask\BlackBoxTask.csproj", "{8E9AD423-5998-412B-B9ED-EB5EEDD83568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAttributes", "ClassAttributes\ClassAttributes.csproj", "{24B1B59C-31B8-4222-9BA3-A8DA58C25CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D472A002-F987-4376-91D0-C478CF27F193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D472A002-F987-4376-91D0-C478CF27F193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D472A002-F987-4376-91D0-C478CF27F193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D472A002-F987-4376-91D0-C478CF27F193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9AD423-5998-412B-B9ED-EB5EEDD83568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9AD423-5998-412B-B9ED-EB5EEDD83568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9AD423-5998-412B-B9ED-EB5EEDD83568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9AD423-5998-412B-B9ED-EB5EEDD83568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B1B59C-31B8-4222-9BA3-A8DA58C25CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B1B59C-31B8-4222-9BA3-A8DA58C25CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B1B59C-31B8-4222-9BA3-A8DA58C25CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B1B59C-31B8-4222-9BA3-A8DA58C25CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
